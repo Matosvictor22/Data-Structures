@@ -2,6 +2,7 @@
 #include <fstream>
 #include "chain.h"
 using namespace std;
+//I'm adding a new line of comment that will let me see WAT GH will do
 
 int main (int argc, char *argv[]){
 
